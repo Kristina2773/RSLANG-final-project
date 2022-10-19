@@ -4,7 +4,7 @@
 
 ## Ссылка на deploy:
 
-1. [Rs-Land](https://sergey-98.github.io/Rs-Lang-Final-project/)
+1. [Rs-Lang](https://sergey-98.github.io/Rs-Lang-Final-project/)
  
 ## Описание проекта:
 
